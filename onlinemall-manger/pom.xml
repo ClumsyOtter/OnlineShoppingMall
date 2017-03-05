@@ -15,7 +15,6 @@
 		</dependency>
 	</dependencies>
   <modules>
-  	<module>onlinemall-dao</module>
   	<module>onlinemall-manger-pojo</module>
   	<module>onlinemall-manger-dao</module>
   	<module>onlinemall-manger-service</module>
